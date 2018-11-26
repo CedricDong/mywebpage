@@ -7,12 +7,6 @@ h3 {
   font-style: italic;
 }
 
-p {
-  border: 1px solid green;
-  padding: 10px;
-  line-height: 2;
-}
-
 ul {
   border: 3px line blue;
   border-radius: 10px;
